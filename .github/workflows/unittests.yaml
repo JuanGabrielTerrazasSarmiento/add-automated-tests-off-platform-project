@@ -1,4 +1,4 @@
-#Commend added to trigger the GitHub Action
+#Comment added to trigger the GitHub Action
 name: Continuous Integration
 on: [push,pull_request]
 jobs:
